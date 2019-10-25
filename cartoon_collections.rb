@@ -1,6 +1,6 @@
 def roll_call_dwarves(arr)
   arr.each_with_index{ |item, index|
-    p item
+    p "#{index}, #{item}"
   }
   
 end
