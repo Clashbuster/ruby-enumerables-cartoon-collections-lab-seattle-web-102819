@@ -12,7 +12,7 @@ def summon_captain_planet(arr)
 end
 
 def long_planeteer_calls(arr)
-  
+  arr.any?{|n| n.size
 end
 
 def find_the_cheese# code an argument here
